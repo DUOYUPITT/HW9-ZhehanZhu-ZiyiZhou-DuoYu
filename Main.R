@@ -1,4 +1,3 @@
-#install ggplot2 package
 install.packages("ggplot2")
 library(ggplot2)
 
