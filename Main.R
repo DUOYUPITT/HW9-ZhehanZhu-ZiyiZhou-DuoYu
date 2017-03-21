@@ -1,4 +1,5 @@
-
+install.packages("ggplot2")
+library(ggplot2)
 
 #3. a script in main.R that reads in DHSMini.csv, then call AggregateByCase and send its output to PlotByTime. 
 # Read the dataset
